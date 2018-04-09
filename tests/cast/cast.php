@@ -13,3 +13,7 @@ $bar = (unset) $foo;
 
 $bar = ( int ) $foo;
 $bar = (  int  )  $foo;
+
+$binary = (binary) $string;
+$binary = b'binary string';
+$binary = b"binary string";
